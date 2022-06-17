@@ -33,7 +33,7 @@
     "prepack": "yarn run bundle"
   },
   "peerDependencies": {
-    "electron": "^11.x"
+    "electron": "^15.x"
   },
   "dependencies": {
     "@cliqz/adblocker-content": "^1.20.5"
@@ -42,7 +42,7 @@
     "@rollup/plugin-commonjs": "^19.0.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@types/chrome": "^0.0.138",
-    "electron": "^11.x",
+    "electron": "^15.x",
     "rimraf": "^3.0.0",
     "rollup": "^2.0.0",
     "rollup-plugin-sourcemaps": "^0.6.1",
